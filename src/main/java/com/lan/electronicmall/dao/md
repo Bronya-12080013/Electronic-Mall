@@ -1,0 +1,3 @@
+存放自定义的mapper接口
+
+就是mappper,和mbg的mapper一样，要加@Component
